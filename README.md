@@ -1,8 +1,11 @@
 # ROBOCOM MIT APP (Useful App for School)
-Project Name: Student Forums App                                                                                                                                                   
+Project Name: Student Forums App
+                                                                                                                                                                                   
 Creators: Saket Gupta VII B                                                                                                                                                         
           Yuvraj Chopra VII B                                                                                                                                                       
+                                                                                                                                                                                   
 School Name: The Lexicon International School, Kalyani Nagar                                                                                                                       
+                                                                                                                                                                                   
 School Mail Id: jasbeen75@gmail.com                                                                                                                                                 
                 tanyamittal1718@gmail.com                                                                                                                                           
                                                                                                                                                                                    
